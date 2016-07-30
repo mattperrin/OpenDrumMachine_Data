@@ -1,0 +1,317 @@
+// OPEN DRUM MACHINE DATA
+// @ - MIDI Mappings
+// NAME|PITCH|CHANNEL|VELOCITY
+// $ - Pattern Sets
+// ! - Pattern Nam
+// # - Pattern Number
+@General MIDI
+KICK      |36|127|1
+SNARE     |38|127|1
+PEDEL HH  |44|127|1
+CLOSED HH |42|127|1
+QTR OPENHH|46|127|1
+OPEN HH   |46|127|1
+RIDE CUP  |51|127|1
+RIDE EDGE |59|127|1
+TOM1      |43|127|1
+TOM2      |50|127|1
+TOM3      |47|127|1
+TOM4      |45|127|1
+CRASH     |49|127|1
+CHINA     |52|127|1
+$SAMPLES
+!Funky Drummer
+#1001
+KICK      |X X   X   X     X X   X   X  X
+SNARE     |    X  X X XX  X    X  X X XX  X
+PEDEL HH  |XXXXXXX XXXXX XXXXXXXXX XXXXX XX
+OPEN HH   |       X     X         X     X
+!Generic HipHop
+#1002
+KICK      |x      x  x   x x      x  x   x
+SNARE     |    x       x       x       x
+PEDEL HH  |x x x x x x x x x x x x x x x x
+!Generic Rock
+#1003
+KICK      |x x   x x x   x x x   x x x   x
+SNARE     |    x       x       x       x
+PEDEL HH  |x x x x x x x x x x x x x x x x
+!4 On The Floor
+#1004
+KICK      |x   x   x   x   x   x   x   x
+SNARE     |    x       x       x       x
+PEDEL HH  |  x   x   x   x   x   x   x   x
+$GENERIC
+!2001
+#2001
+KICK      |X       X        X       X
+SNARE     |    X       X        X       X
+!2002
+#2002
+KICK      |X       X        X       X X  X
+SNARE     |    X       X        X       X
+!2003
+#2003
+KICK      |X       X X      X     X   X
+SNARE     |    X       X        X       X
+!2004
+#2004
+KICK      |X X   X X  X  X   X X  X X X   X
+SNARE     |    X       X        X       X
+!2005
+#2005
+KICK      |X X   X X  X      X X  X X X   X
+SNARE     |    X       X        X       X
+!2006
+#2006
+KICK      |X       X     X  X XX  X X X   X
+SNARE     |    X       X        X       X
+!2007
+#2007
+KICK      |X XX  X X  X  X    XX  XX X X  X
+SNARE     |    X       X        X       X
+!2008
+#2008
+KICK      |X X     X X      X X   X   X
+SNARE     |    X       X        X       X
+!2009
+#2009
+KICK      |X       X     X    X   X X
+SNARE     |    X       X        X       X
+!2010
+#2010
+KICK      |X       X        X X   X   X
+SNARE     |    X       X        X       X
+!2011
+#2011
+KICK      |X     XXX X   X    XX  X X X   X
+SNARE     |    X       X        X       X
+!2012
+#2012
+KICK      |X X   X   X   X  X X   X   X    X
+SNARE     |    X       X        X       X
+!2013
+#2013
+KICK      |x     x   X        X     X X
+SNARE     |    x       X        X       X
+!2014
+#2014
+KICK      |X       X        X       X X  X
+SNARE     |    X       X        X       X
+QTR OPENHH|X   X   X   X    X   X   X   X
+!2015
+#2015
+KICK      |X       X       X       X X  X
+SNARE     |    X       X       X       X
+QTR OPENHH|X X X X X X X X X X X X X X X X
+!2016
+#2016
+KICK      |X       X       X       X X  X
+SNARE     |    X       X       X       X
+QTR OPENHH|XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+!2017
+#2017
+KICK      |X       X       X       X X  X
+SNARE     |    X       X       X       X
+QTR OPENHH| XXXXXXX XXXXXXX XXXXXXX X XX XX
+OPEN HH   |X       X       X       X X  X
+!2018
+#2018
+KICK      |X       X X     X     X   X
+SNARE     |            X       X       X
+QTR OPENHH|  X X X X   X X   X X   X   X X
+OPEN HH   |X         X     X     X   X
+!2019
+#2019
+KICK      |X X   X   X   X   X   X X XX
+SNARE     |    X       X       X       X
+CLOSED HH |X   X   X   X   X   X   X X   X
+OPEN HH   |  X   X   X   X   X   X     X
+!2020
+#2020
+KICK      |X X   X X  X  X  X X  X X X   X
+SNARE     |    X       X       X       X
+QTR OPENHH| XXX XXX XXXXX  XXXX XXX X XXX X
+OPEN HH   |X   X   X     X     X   X X   X
+!2021
+#2021
+KICK      |X       X       X XX  X X X   X
+SNARE     |    X       X       X       X
+CLOSED HH |X X X X X X X     X X   X X X
+OPEN HH   |              X X     X       X
+!2022
+#2022
+KICK      |X XX  X X  X  X   XX  XX X X  X
+SNARE     |    X       X       X       X
+QTR OPENHH| XXX XXX XXXXX  XXXX XX      XXX
+OPEN HH   |X   X   X     X     X       X
+!2023
+#2023
+KICK      |X X     X X     X X   X   X
+SNARE     |    X       X       X       X
+QTR OPENHH|X   X   X   X   X   X   X   X
+OPEN HH   |                              X
+!2024
+#2024
+KICK      |X       X     X   X   X X
+SNARE     |    X       X       X       X
+QTR OPENHH| XXXXXXX XXXXX XXX XXX XXXXXX XX
+OPEN HH   |X       X     X   X   X      X
+!2025
+#2025
+KICK      |X       X       X X   X   X
+SNARE     |    X       X       X       X
+CLOSED HH |  X X X   X X X   X X   X   X X
+OPEN HH   |X       X       X     X   X
+!2026
+#2026
+KICK      |X     XXX X   X   XX  X X X   X
+SNARE     |    X       X       X       X
+QTR OPENHH|  XX  XXX X   X   XX  X X X   X
+OPEN HH   |X   X       X   X   X       X
+!2027
+#2027
+KICK      |X X   X   X   X X X   X   X    X
+SNARE     |    X       X       X       X
+CLOSED HH |X   X   X   X   X   X   X   X
+QTR OPENHH|                          XX  X
+OPEN HH   |  X   X   X   X   X   X      X X
+!2028
+#2028
+KICK      |X      X  X       X     X X
+SNARE     |    X       X       X       X
+OPEN HH   |X   X   X   X   X   X   X   X
+! 29
+#2029
+KICK      |X X   X X  X  X  X X  X X X   X
+SNARE     |    X       X       X       X
+QTR OPENHH| XXX XXX XXXXX  X   X   X   X
+OPEN HH   |X   X   X     X
+!2030
+#2030
+KICK      |X XX  X   X       X    X XX   X
+SNARE     |    X       X       X       X
+!2031
+#2031
+KICK      |X XX  X   X       X    X XX   X
+SNARE     |    X       X       X       X
+!2032
+#2032
+KICK      |X XX  X   X       X    X XX   X
+SNARE     |    X       X       X       X
+!2033
+#2033
+KICK      |X X   X X  X  X  X X X X XXX  X
+SNARE     |    X       X       X       X
+QTR OPENHH| XXX XXX XXXXX  X   X   X   X
+OPEN HH   |X   X   X     X
+!2034
+#2034
+KICK      |X X   X X  X  X  X X X X XXX  X
+SNARE     |    X       X       X   XX  X XX
+QTR OPENHH| XXX XXX XXXXX  X   X
+OPEN HH   |X   X   X     X
+TOM3      |                          XX
+TOM4      |                            X X
+!2035
+#2035
+KICK      |X X   X X  X  X  X X X X XXX  X
+SNARE     |    X       X       X   XX  X XX
+PEDEL HH  |                        X X X X
+QTR OPENHH| XXX XXX XXXXX  X   X
+OPEN HH   |X   X   X     X
+TOM3      |                          XX
+TOM4      |                            X X
+!2036
+#2036
+KICK      |X X   X X  X  X   XX  XX X X  X
+SNARE     |    X       X       X       X
+QTR OPENHH| XXX XXX XXXXX  XXXX XX     XXXX
+OPEN HH   |X   X   X     X     X  X X X
+!2037
+#2037
+KICK      |X X   X X  X  X X X X X XX X  X
+SNARE     |    X       X   XX      X   X
+PEDEL HH  |                X X X X X X X X
+QTR OPENHH| XXX XXX XXXXX
+OPEN HH   |X   X   X     X
+TOM1      |                  XX
+TOM2      |                    XX   X
+TOM3      |                      XX  XX
+TOM4      |                        X X X X
+!2038
+#2038
+KICK      |X XX   X  X       X   XXX X X X
+SNARE     |    X       X       X   X   XXX
+!2039
+#2039
+KICK      |X   X   X   X   X   X X     X
+SNARE     |X XXX X                 X
+TOM1      |        X XXX X
+TOM2      |                X X
+TOM3      |                    X
+TOM4      |                      X X   X
+!2040
+#2040
+KICK      |X XX  X X  X  X X XX  X XX  X
+SNARE     |    X       X       X   X XXX
+QTR OPENHH|  XX  XX  X     X XX
+OPEN HH   |    X               X
+CRASH     |X       X  X          X     X
+CHINA     |          X         X
+$RUDIMENTS
+!ELECTRO
+#3001
+PEDEL HH  |X X X XXXXX X X X X X XXXXX X X
+SNARE     |    X       X       X       X
+KICK      |X      X        X     X      X
+!BREAKS
+#3002
+PEDEL HH  |X X X X XXX X X X X X XXX X   X
+SNARE     |    X       X       X       X
+KICK      |X         X     X         X
+!HYBRID
+#3003
+PEDEL HH  |  X   X   X   X   X   X   X   X
+SNARE     |    X       X       X       X
+KICK      |X       X       X        X
+!IRREGULAR
+#3004
+PEDEL HH  |X X X X X X X X X X X X X X X X
+SNARE     |   X        X       X       X
+KICK      |X      X  X     X X   X   X
+!ROLLING
+#3005
+PEDEL HH  |X X X X X X X X X X X X X X X X
+SNARE     |    X       X       X       X
+KICK      |X      X  X     X      X  X
+!MODERN SNARE     |
+#3006
+PEDEL HH  |X X X XXX X X X X X X X X X X X
+SNARE     |    X    X    X       X  X  X
+KICK      |X         X       X       X
+!MODERN KICK      |
+#3007
+PEDEL HH  |X X X X X X X X X X X X X X X X
+SNARE     |    X         X     X       X
+KICK      |X         X       X    X  X
+!HIPHOP
+#3008
+PEDEL HH  |X X X XXXXX X X X X X XXXXX X X
+SNARE     |    X       X       X       X
+KICK      |X     X         X     X   X  X
+!HIPHOP SWING
+#3009
+PEDEL HH  |X X X X X X X X X X X X X   X X
+SNARE     |    X       X       X       X
+KICK      |X  X   X XX    XX X    XXXX
+!DNB A
+#3010
+PEDEL HH  |X X X X X X X X X X X X X X X X
+SNARE     |    X       X       X       X
+KICK      |X  X   X XX    XX X    XXXX
+!DNB B
+#3011
+PEDEL HH  |X X X X X X X X X X X X X X X X
+SNARE     |    X       X       X       X
+KICK      |X      X X X   XX          X
