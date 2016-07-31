@@ -181,7 +181,7 @@ OPEN HH   |  X   X   X   X   X   X      X X
 KICK      |X      X  X       X     X X
 SNARE     |    X       X       X       X
 OPEN HH   |X   X   X   X   X   X   X   X
-! 29
+!2029
 #2029
 KICK      |X X   X X  X  X  X X  X X X   X
 SNARE     |    X       X       X       X
@@ -285,12 +285,12 @@ KICK      |X      X  X     X X   X   X
 PEDEL HH  |X X X X X X X X X X X X X X X X
 SNARE     |    X       X       X       X
 KICK      |X      X  X     X      X  X
-!MODERN SNARE     |
+!MODERN SNARE
 #3006
 PEDEL HH  |X X X XXX X X X X X X X X X X X
 SNARE     |    X    X    X       X  X  X
 KICK      |X         X       X       X
-!MODERN KICK      |
+!MODERN KICK
 #3007
 PEDEL HH  |X X X X X X X X X X X X X X X X
 SNARE     |    X         X     X       X
