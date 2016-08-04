@@ -1,0 +1,21 @@
+// OPEN DRUM MACHINE MIDI MAPPINGS
+// @ - MIDI Mappings
+// NAME|PITCH|CHANNEL|VELOCITY
+// $ - Pattern Sets
+// ! - Pattern Name
+// # - Pattern Number
+@General MIDI
+KICK      |36|127|1
+SNARE     |38|127|1
+PEDEL HH  |44|127|1
+CLOSED HH |42|127|1
+QTR OPENHH|46|127|1
+OPEN HH   |46|127|1
+RIDE CUP  |51|127|1
+RIDE EDGE |59|127|1
+TOM1      |43|127|1
+TOM2      |50|127|1
+TOM3      |47|127|1
+TOM4      |45|127|1
+CRASH     |49|127|1
+CHINA     |52|127|1
