@@ -1,5 +1,6 @@
 // OPEN DRUM MACHINE PATTERNS
 // @ - MIDI Mappings
+// NAME|PITCH|VELOCITYLOW|VELOCITYHIGH|CHANNEL
 // $ - Pattern Sets
 // ! - Pattern Name
 // # - Pattern Number
